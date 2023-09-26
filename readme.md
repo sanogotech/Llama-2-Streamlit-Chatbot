@@ -2,6 +2,19 @@
 
 This is a Streamlit app that demonstrates a conversational chat interface powered by a language model and a retrieval-based system. The app allows you to have interactive conversations with the model about a given CSV dataset.
 
+## LangChain + Streamlit🔥+ Llama
+
+LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯
+Integrating Open Source LLMs and LangChain for Free Generative Question Answering (No API Key required)
+
+Here is an overview of the blog’s structure, outlining the specific sections that will provide a detailed breakdown of the process:
+
+- Setting up the virtual environment and creating file structure
+- Getting LLM on your local machine
+- Integrating LLM with LangChain and customizing PromptTemplate
+- Document Retrieval and Answer Generation
+- Building application using Streamlit
+  
 ### User Note : Please 1st Download and place the LLAMA 2B model into native directory before running the program.
 
 Download LLAMA 2b here : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
